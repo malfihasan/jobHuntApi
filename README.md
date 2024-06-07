@@ -8,6 +8,7 @@ An API to help folks curate job search lists from Fortune 500 and S&P 500 compan
 ## 📂 Data
 1. **Fortune 500 Companies**: 
    - Download the list of Fortune 500 companies along with their ticker symbols from any reputable website.
+   - Also a helping repo can be found in this [link](https://github.com/malfihasan/prjFortune500Scrapper)
 
 2. **S&P 500 Companies**:
    - Download the list of S&P 500 companies along with their ticker symbols from any reputable website.
