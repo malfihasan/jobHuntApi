@@ -84,10 +84,3 @@ poetry install
 For further assistance or questions, feel free to open an issue or contact 'mdalfihasan19@gmail.com' or put a PR.
 
 Enjoy using the Job Hunt API! 🎉
-
-# To-Do List
-
-- [ ] Task 1
-- [x] Task 2
-- [ ] Task 3
-- [x] Task 4
