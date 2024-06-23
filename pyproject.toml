@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "job-search-tool"
-version = "1.1.0"
+version = "1.0.2"
 description = "A Streamlit application for screening and listing top companies based on various financial metrics."
 authors = ["Mohammad Alfi Hasan <mdalfihasan19@gmail.com>"]
 
